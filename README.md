@@ -65,3 +65,6 @@ Users can contribute to a collaborative security database by reporting suspiciou
 Compliance and Policy Adherence:
 
 The tool can help organizations ensure compliance with security policies and industry standards by monitoring apps for adherence to security guidelines.
+
+
+Update As Of 03-10-2023 => Basic UI development ongoing. This prototype is for the visual purpouse for how the code would look at its final stages.
